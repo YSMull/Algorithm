@@ -1,3 +1,3 @@
 Algorithm
 =========
-Some fragmentary algorithm codes
+###Some fragmentary algorithm codes
